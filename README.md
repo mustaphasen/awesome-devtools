@@ -59,6 +59,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [NGINXConfig](https://www.digitalocean.com/community/tools/nginx) - The easiest way to configure a performant, secure, and stable NGINX server.
 - [Readme](https://nxt-readme.vercel.app) - All in one tool to quickly generate a readme for your project or github profile.
 - [Mockium](https://softwium.com/mockium/) - Create test data
+- [ToolHover](https://toolhover.com) - Free collection of simple generators & utilities (QR codes, case converter, text counter, and more). 100% client-side.
+
 
 ### Image
 
